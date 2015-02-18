@@ -285,7 +285,7 @@
 #endif
 
 /* Max length of a segment file name. */
-#define VG_MAX_SEGNAMELEN 1000
+#define VG_MAX_SEGNAMELEN 4000
 
 
 typedef
