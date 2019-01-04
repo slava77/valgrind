@@ -286,7 +286,7 @@
     || defined(VGPV_arm64_linux_android)
 # define VG_N_SEGMENTS 5000
 #else
-# define VG_N_SEGMENTS 30000
+# define VG_N_SEGMENTS 120000
 #endif
 
 /* Array [0 .. nsegments_used-1] of all mappings. */
